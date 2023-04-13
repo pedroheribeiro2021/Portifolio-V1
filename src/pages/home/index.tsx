@@ -27,6 +27,7 @@ import {
   ProjectsAreaContent,
   AboutMeArea,
 } from "./style";
+import { TypeWriter } from "@/components/Typewriter";
 
 export const Home = (): JSX.Element => {
   const gihubUrl = `https://github.com/${userData.githubUser}`;
@@ -45,7 +46,10 @@ export const Home = (): JSX.Element => {
                 width={"48px"}
                 height={"48px"}
               />
-              <Text color="grey4">Hello, my name is {userData.nameUser} :) </Text>
+              {/* <Text color="grey4">Hello, my name is {userData.nameUser} :) </Text> */}
+              {/* <Text color="grey4"> */}
+                <TypeWriter text="Olá, meu nome é Pedro :)" hideCursor delay={100}/>
+              {/* </Text> */}
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
             I{" "}
