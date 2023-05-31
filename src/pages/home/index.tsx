@@ -94,7 +94,7 @@ export const Home = (): JSX.Element => {
             Sobre mim
           </Text>
           <Text as="p" type="body1" color="grey2">
-            Sou um desenvolvedor fullstack fascinado por tecnologia e as infinitas possibilidades que ela oferece. Dedico meus esforço sempre para me atualizar e aprimorar minhas habilidades. Sou uma pessoa comunicativa, criativa, curiosa e com interesse em aprender sempre, buscando novos desafios e oportunidades de crescimento profissional.
+            Sou um desenvolvedor fullstack fascinado por tecnologia e as infinitas possibilidades que ela oferece. Dedico meus esforços sempre para me atualizar e aprimorar minhas habilidades. Sou uma pessoa comunicativa, criativa, curiosa e com interesse em aprender sempre, buscando novos desafios e oportunidades de crescimento profissional.
             <br />
             Hoje, tenho experiência em criar websites e aplicações web responsivas e funcionais, com habilidades em HTML, CSS, JavaScript, Typescript, React, na parte de front-end. Na parte de back-end utilizo NodeJs, Python com Django, e bancos de dados relacionais, além de diversas ferramentas que auxiliam no desenvolvimento dos projetos. Além disso, sou familiarizado com SCRUM.
             <br />
